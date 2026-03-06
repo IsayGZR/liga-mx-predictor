@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pkl
+local.settings.json
+api/local.settings.json
